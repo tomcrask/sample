@@ -1,4 +1,4 @@
 # sample
 sample Edits
-This is a new edit etc
+<p>This is a new paragraph</p>
 
